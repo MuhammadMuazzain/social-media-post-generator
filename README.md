@@ -34,7 +34,7 @@ Built with Next.js and cutting-edge AI technology, this open-source template ena
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/social-media-post-generator.git
+    git clone https://github.com/MuhammadMuazzain/social-media-post-generator.git
     ```
 
 2. Navigate to the project directory:
@@ -82,9 +82,6 @@ We welcome contributions! Here's how you can help make the Social Media Post Gen
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/0xmetaschool/Social-Media-Post-Generator/blob/main/LICENSE) file for details.
 
 ## Contact
 Please open an issue in the GitHub repository for any queries or support.
