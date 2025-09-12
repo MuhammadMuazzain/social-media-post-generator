@@ -27,5 +27,8 @@ def format_contacts():
     
     print(f"Formatted CSV created: {output_file} with {len(final_df)} contacts.")
 
+# if __name__ == "__main__":
+#     format_contacts()
+
 if __name__ == "__main__":
     format_contacts()
