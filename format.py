@@ -33,5 +33,8 @@ def format_contacts():
 # if __name__ == "__main__":
 #     format_contacts()
 
+# if __name__ == "__main__":
+
 if __name__ == "__main__":
     format_contacts()
+#     format_contacts()
