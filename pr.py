@@ -65,3 +65,12 @@ print(z1)
 m2=['d', 'i', "m"]
 z1 = m2.join('')
 print(z1)
+
+
+m2=['d', 'i', "m"]
+z1 = m2.join('')
+print(z1)
+
+m2=['d', 'i', "m"]
+z1 = m2.join('')
+print(z1)
