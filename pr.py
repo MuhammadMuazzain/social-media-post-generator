@@ -26,18 +26,13 @@ right=len(fms)-1
 
 
 
-m1="s-i-p"
-c1 = m1.split('-')
-# print(c1)
-
+m2=['d', 'i', "m"]
+z1 = m2.join('')
+print(z1)
 m2=['d', 'i', "m"]
 z1 = m2.join('')
 print(z1)
 
-
-m2=['d', 'i', "m"]
-z1 = m2.join('')
-print(z1)
 m2=['d', 'i', "m"]
 z1 = m2.join('')
 print(z1)
